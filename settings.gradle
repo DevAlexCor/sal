@@ -1,0 +1,4 @@
+rootProject.name = 'sal'
+include 'salcore'
+include 'saldemo'
+
