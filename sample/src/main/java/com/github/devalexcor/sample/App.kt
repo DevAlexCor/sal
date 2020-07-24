@@ -1,4 +1,4 @@
-package com.github.devalexcor.saldemo
+package com.github.devalexcor.sample
 
 import com.github.devalexcor.salcore.Application
 

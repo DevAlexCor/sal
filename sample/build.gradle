@@ -2,7 +2,7 @@ plugins {
     id 'org.jetbrains.kotlin.jvm'
 }
 apply plugin: 'application'
-mainClassName = 'com.github.devalexcor.saldemo.MainKt'
+mainClassName = 'com.github.devalexcor.sample.MainKt'
 
 group 'com.github.devalexcor'
 version '0.0.1'
